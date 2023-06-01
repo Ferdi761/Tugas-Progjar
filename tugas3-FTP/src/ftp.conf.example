@@ -1,0 +1,4 @@
+host=<your IP/host>
+port=<your port>
+user=<your FTP username>
+pass=<your FTP password>
